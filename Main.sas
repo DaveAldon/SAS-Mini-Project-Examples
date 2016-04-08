@@ -1,4 +1,4 @@
-
+*test DAvid Crawford;
 *%let categorical=id lake;
 
 %let interval=alkalinity pH calcium chlorophyll avg_Mercury No_Samples min max _3_yr_Standard_mercury age_data;
@@ -24,7 +24,7 @@ run;
 
 ods text='COMMENTS ON PROBLEM 2: Alkalinity is skewed right; PH levels are close to symetrical, but it is slightly skewed left; Calcium is skewed right;
 Chlorophyll is skewed right; The average mercury levels are skewed right; The distribution of the number of samples is skewed right; The minimum distribution
-is skewed right; The maximum distribution is skewed right; The distribution of the three year standard mercury levels is skewed right; and the distribution 
+is skewed right; The maximum distribution is skewed right; The distribution of the three year standard mercury levels is skewed right; and the distribution
 of age data is skewed left.';
 title;
 *footnote;
@@ -59,7 +59,7 @@ title;
    title "Correlations and Scatter showing association between Ph levels and average mercury found in fish";
 run;
 
-ods text='COMMENTS ON PROBLEM 5: Based on the -0.575 correlation, there is a moderate negative relationship between Ph levels and average 
+ods text='COMMENTS ON PROBLEM 5: Based on the -0.575 correlation, there is a moderate negative relationship between Ph levels and average
 mercury found in fish.';
 title;
 
@@ -77,5 +77,3 @@ ods text='COMMENTS ON PROBLEM 6: Least Squares Regression Line equation: Ph = 7.
 ~n COMMENTS ON PROBLEM 10: 33.11%';
 
 ods rtf close;
-
-

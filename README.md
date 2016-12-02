@@ -9,3 +9,6 @@ A growing collection of simple projects I have worked on using the SAS programmi
 - Creating Polar Rose patterns
 - Map Annotation
 - Using Latex Arrays
+- Predictive Modeling with Honest Assessment
+- Snowfall Analysis with Dataset
+- Brain and Body Weight Analysis

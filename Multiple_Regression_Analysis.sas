@@ -1,3 +1,4 @@
+*David Crawford 2016;
 
 *%let categorical=id lake;
 
@@ -6,8 +7,8 @@
 *Problem 1;
 options validvarname=v7;
 ods rtf style=journal2 gtitle bodytitle file="Z:\HW7.rtf" startpage=no;
-proc import datafile="R:\STAT\Kapitula\Stat318\homework\HW7\mercury_in_bass.csv"
-/*"\\office\DFS\GVSU-Labdata\STAT\Kapitula\Stat318\homework\HW7\mercury_in_bass.csv"*/
+proc import datafile="PATH_TO_CSV"
+/*"OUTPUT_PATH"*/
 out=mercury;
 run;
 

@@ -1,3 +1,5 @@
+*David Crawford 2016;
+
 data square;
 	numrep=1000;
 	a=-1;

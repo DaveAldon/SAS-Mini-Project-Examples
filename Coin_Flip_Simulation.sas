@@ -1,3 +1,5 @@
+*David Crawford 2016;
+
 *we wonder if a coin is fair? We are going to simulate different 
 situations and do a hypothesis test(s);
 

@@ -4,4 +4,8 @@ A growing collection of simple projects I have worked on using the SAS programmi
 # Contents
 - Multiple Regression Analysis
 - Coin-Flip Simulator
-- Creating Pi from Scratch
+- Creating Pi from scratch
+- How to Tabulate data
+- Creating Polar Rose patterns
+- Map Annotation
+- Using Latex Arrays

@@ -1,4 +1,7 @@
-# Multiple-Regression-Analysis
-Multiple Regression Analysis using the SAS programming language
+# SAS Mini Project Examples
+A growing collection of simple projects I have worked on using the SAS programming language
 
-Adding the entire code to the file
+# Contents
+- Multiple Regression Analysis
+- Coin-Flip Simulator
+- Creating Pi from Scratch
